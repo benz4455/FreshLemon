@@ -1,4 +1,4 @@
-#FreshLemon Company
+﻿#FreshLemon Company
 Website: http://www.miraiworld.com <br>
 Ragnarok Online Private Server <br>
 Open Beta February 13, 2015 | Join Us!
@@ -21,9 +21,9 @@ Open Beta February 13, 2015 | Join Us!
 แจนล่ะ!14 <br>
 =======
 
-one 1
-two 2
-three 3
-four 4
-five 5
+one 1 <br>
+two 2 <br>
+three 3 <br>
+four 4 <br>
+five 5 <br>
 >>>>>>> origin/master
