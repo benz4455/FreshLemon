@@ -2,6 +2,7 @@
 Website: http://www.miraiworld.com <br>
 Ragnarok Online Private Server <br>
 Open Beta February 13, 2015 | Join Us!
+<<<<<<< HEAD
 #=.=
 
 หยวนอยู่ไหน!1 <br>
@@ -18,3 +19,11 @@ Open Beta February 13, 2015 | Join Us!
 หยวนอยู่ไหน!12 <br>
 หยวนอยู่ไหน!13 <br>
 หยวนอยู่ไหน!14 <br>
+=======
+
+one 1
+two 2
+three 3
+four 4
+five 5
+>>>>>>> origin/master
