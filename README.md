@@ -1,2 +1,4 @@
 #FreshLemon Company
-#=.= Fureshu Remon ni naritai no~!
+Website: http://www.miraiworld.com
+Ragnarok Online Private Server
+#=.=
